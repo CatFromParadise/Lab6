@@ -19,5 +19,5 @@ for(i=0; i<str.length; i++){
 
 }
 
-console.log("a = " + a + " b = "+ b + " c = " + c + " d = "+d + " e = " + e)
+console.log("string = "+ str+ " a = " + a + " b = "+ b + " c = " + c + " d = "+d + " e = " + e)
 
